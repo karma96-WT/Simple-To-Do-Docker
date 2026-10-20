@@ -29,8 +29,8 @@ Before getting started, make sure you have the following installed on your machi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/karma96-WT/Simple-To-Do-Docker.git
+   cd Simple-To-Do-Docker
    ```
 
 2. **Build the Docker Image:**
